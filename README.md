@@ -8,19 +8,33 @@ FPGA BOARD EP4CE22
 SDRAM 256Mbit
 
 I/O
+
 SD socket.
+
 USB input (for keyboard compatible with PS/2 protocol).
+
 PS/2 Keyboard.
+
 PS/2 mouse.
+
 2X Joystick Atari.
+
 Slot for external PCB with FLASH SPI.
+
 Jumper to select input/output SPI Flash.
+
 JTAG input for USB Blaster.
+
 DIN9 video output for connect SCART cable (compatible with Mistica/ZX GO+)
+
 VGA output.
+
 3.5mm female jack for audio stereo output.
+
 ON/OFF switch.
+
 DC input 5V , microUSB and jack 5.5mm X 2.1mm
+
 Reset button.
 
 FPGA Board compatible with Unamiga cores.
