@@ -1,9 +1,9 @@
 # SidewinderFPGA
 Sidewinder FPGA
 
-![alt text](https://postimg.cc/YLkm0Vmz)
+![alt text](https://i.postimg.cc/pr5QGMW4/IMG-20181014-200007.jpg)
 
-FPGA BOARD EP4CE22
+FPGA BOARD EP4CE22 
 SDRAM 256Mbit
 I/O
 SD socket.
