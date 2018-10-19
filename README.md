@@ -3,55 +3,33 @@ Sidewinder FPGA
 
 ![alt text](https://i.postimg.cc/pr5QGMW4/IMG-20181014-200007.jpg)
 
-FPGA BOARD EP4CE22 
-
-SDRAM 256Mbit
-
-I/O
-
-SD socket.
-
-USB input (for keyboard compatible with PS/2 protocol).
-
-PS/2 Keyboard.
-
-PS/2 mouse.
-
-2X Joystick Atari.
-
-Slot for external PCB with FLASH SPI.
-
-Jumper to select input/output SPI Flash.
-
-JTAG input for USB Blaster.
-
-DIN9 video output for connect SCART cable (compatible with Mistica/ZX GO+)
-
+FPGA BOARD EP4CE22 <BR>
+SDRAM 256Mbit <BR><BR>
+I/O <BR><BR>
+SD socket.<BR>
+USB input (for keyboard compatible with PS/2 protocol).<BR>
+PS/2 Keyboard.<BR>
+PS/2 mouse.<BR>
+2X Joystick Atari.<BR>
+Slot for external PCB with FLASH SPI.<BR>
+Jumper to select input/output SPI Flash.<BR>
+JTAG input for USB Blaster.<BR>
+DIN9 video output for connect SCART cable (compatible with Mistica/ZX GO+).<BR>
 VGA output.<BR> 
 3.5mm female jack for audio stereo output.<BR> 
-ON/OFF switch.
+ON/OFF switch.<BR>
+DC input 5V , microUSB and jack 5.5mm X 2.1mm<BR>
+Reset button.<BR><BR>
 
-DC input 5V , microUSB and jack 5.5mm X 2.1mm
-
-Reset button.
-
-FPGA Board compatible with Unamiga cores.
-Available cores.
-	Amiga AGA
-	MSX2+
-	PC Next186
-	FPGAGEN (Megadrive)
-	Atari800XL
-	Spectrum 128K
+FPGA Board compatible with Unamiga cores.<BR>
+Available cores.<BR>
+	Amiga AGA<BR>
+	MSX2+<BR>
+	PC Next186<BR>
+	FPGAGEN (Megadrive)<BR>
+	Atari800XL<BR>
+	Spectrum 128K<BR>
 	
-
-
-
-
-<a href='https://postimg.org/image/gi1a48ghb/' target='_blank'><img src='https://i.postimg.cc/NjcVHpbB/IMG-20181014-200055.jpg' border='0' alt='IMG_20170526_212919'/></a>
-
-
-
 
 
 
