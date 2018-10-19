@@ -4,7 +4,9 @@ Sidewinder FPGA
 ![alt text](https://i.postimg.cc/pr5QGMW4/IMG-20181014-200007.jpg)
 
 FPGA BOARD EP4CE22 
+
 SDRAM 256Mbit
+
 I/O
 SD socket.
 USB input (for keyboard compatible with PS/2 protocol).
