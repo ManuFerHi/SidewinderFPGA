@@ -1,8 +1,7 @@
 # SidewinderFPGA
 Sidewinder FPGA
-<<<<<<< .mine
 
-![alt text](https://i.postimg.cc/NjcVHpbB/IMG-20181014-200055.jpg)
+![alt text](https://postimg.cc/YLkm0Vmz)
 
 FPGA BOARD EP4CE22
 SDRAM 256Mbit
