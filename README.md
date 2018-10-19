@@ -27,8 +27,8 @@ JTAG input for USB Blaster.
 
 DIN9 video output for connect SCART cable (compatible with Mistica/ZX GO+)
 
-VGA output.
-3.5mm female jack for audio stereo output.
+VGA output.<HR> 
+3.5mm female jack for audio stereo output.<HR> 
 ON/OFF switch.
 
 DC input 5V , microUSB and jack 5.5mm X 2.1mm
