@@ -42,8 +42,8 @@ Available cores.
 
 
 For more information, contact with manuferhi@gmail.com
-||||||| .r1
+
 =======
 
 In construction
->>>>>>> .r8
+
