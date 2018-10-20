@@ -1,3 +1,0 @@
-# Amiga AGA
-
-ESTO LO HA HECHO JEPALZA!!!
