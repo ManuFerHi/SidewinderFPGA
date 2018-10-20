@@ -30,11 +30,11 @@ Available cores.<BR>
 &nbsp;&nbsp;&nbsp;&nbsp;	Spectrum 128K<BR>
 	
 
-
+=======
 
 For more information, contact with manuferhi@gmail.com
 
-=======
 
-In construction
+
+
 
