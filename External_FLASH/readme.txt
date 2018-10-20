@@ -1,0 +1,1 @@
+Circuito SPI Flash externo para Sidewinder, diseñado por Carmeloco.
