@@ -1,0 +1,17 @@
+NOTAS IMPORTANTES:
+- para ejecutar este core, "creo" que es obligatorio usar la BIOS que yo he preparado, por que la original emplea 147mhz para la SDRAM y la placa Altera "nuestra" solo alcanza 133mhz. Con 147mhz la SDRAM se calentaba demasiado para mi gusto, y lo bajé a 133.
+
+- el core tiene varias trmapas preparadas por mi, por ejemplo, una que engaña a la mayoría de programas, y les hace creer que es un 80286, pero NO ES VERDAD, dado que este core solo alcanza un 80186. Con esa trampa hecha, programas como el emulador de FPU (8087) creen que tienen un 80286, y funcionan. Otros como el CHECKIT no se cuelgan al detectar CPU. Solo he visto un par de programas que se cuelgan y ambos son de chequeos de hard.
+
+-el controlador de memoria tanto XMS como EMS no sirve (creo) el de MSDOS622, hay que usar el de FREEDOS (ver carpeta XMS y fichero CONFIG.SYS)
+
+-en el autoexec.bat he incluido la carga del emulador de FPU (copro 8087) llamado 88x87, muy util para aplicaciones CAD, como AUTOCAD ;-)
+
+-si quieres cargar WINDOWS 3.0 (del 3.1 en adelante no sirven) DEBES emplear el KERNEL.EXE parcheado de la carpeta WINDOWS/SYSTEM (el parchero, gracias a QUEST de ZXUNO)
+
+-para un modo emulado de un 386, podemos usar el EMU386S.EXE (ver config.sys) peeerooo..... no va muy bien, no todos los programas lo detectan, la mayoría falla. Ademas, si usamos el EMU386S en conjunción con el 88X87, el PC se cuelga, o lo uno, o lo otro, ambos no se puede.
+
+- como "regalo", dejo una de las cientos de aplicaciones que hice de joven cuando trabajé como informático en mi primera empresa, con 20 años. Está en la carpeta "tools" y os dejo que lo probéis por si os gusta. ;-)
+
+
+
