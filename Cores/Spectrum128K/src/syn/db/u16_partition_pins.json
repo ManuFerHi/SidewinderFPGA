@@ -1,0 +1,293 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "LEDS[2]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_HS",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_VS",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_RO[0]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_RO[1]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_RO[2]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_RO[3]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_RO[4]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_RO[5]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_GO[0]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_GO[1]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_GO[2]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_GO[3]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_GO[4]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_GO[5]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_BO[0]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_BO[1]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_BO[2]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_BO[3]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_BO[4]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_BO[5]",
+					"strict" : false
+				},
+				{
+					"name" : "SD_NCS",
+					"strict" : false
+				},
+				{
+					"name" : "SD_CLK",
+					"strict" : false
+				},
+				{
+					"name" : "SD_SI",
+					"strict" : false
+				},
+				{
+					"name" : "DAC_OUT_L",
+					"strict" : false
+				},
+				{
+					"name" : "DAC_OUT_R",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_NRAS",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_NCAS",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_NWE",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQM[0]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQM[1]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_BA[0]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_BA[1]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_A[0]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_A[1]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_A[2]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_A[3]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_A[4]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_A[5]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_A[6]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_A[7]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_A[8]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_A[9]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_A[10]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_A[11]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_A[12]",
+					"strict" : false
+				},
+				{
+					"name" : "PS2C",
+					"strict" : false
+				},
+				{
+					"name" : "PS2D",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[0]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[1]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[2]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[3]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[4]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[5]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[6]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[7]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[8]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[9]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[10]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[11]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[12]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[13]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[14]",
+					"strict" : false
+				},
+				{
+					"name" : "DRAM_DQ[15]",
+					"strict" : false
+				},
+				{
+					"name" : "USB_NRESET",
+					"strict" : false
+				},
+				{
+					"name" : "JOYA[3]",
+					"strict" : false
+				},
+				{
+					"name" : "JOYA[4]",
+					"strict" : false
+				},
+				{
+					"name" : "JOYA[1]",
+					"strict" : false
+				},
+				{
+					"name" : "JOYA[0]",
+					"strict" : false
+				},
+				{
+					"name" : "JOYA[2]",
+					"strict" : false
+				},
+				{
+					"name" : "SD_SO",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,5 @@
+copiar en el raiz de la sd el contenido de SD (es el EXDOS 0.85, SOLO funciona este, ni el 0.75 ni el 0.86 funcionan)
+
+pulsa espacio+f4+f5 para resetear en modo DIVMMC y luego F5 para entrar al menu.
+
+mas teclas en el README original en esta misma carpeta
