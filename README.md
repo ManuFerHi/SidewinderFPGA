@@ -23,12 +23,12 @@ Reset button.<BR><BR>
 
 FPGA Board compatible with Unamiga cores.<BR>
 Available cores.<BR>
-&nbsp;&nbsp;&nbsp;&nbsp	Amiga AGA<BR>
-&nbsp;&nbsp;&nbsp;&nbsp	MSX2+<BR>
-&nbsp;&nbsp;&nbsp;&nbsp	PC Next186<BR>
-&nbsp;&nbsp;&nbsp;&nbsp	FPGAGEN (Megadrive)<BR>
-&nbsp;&nbsp;&nbsp;&nbsp	Atari800XL<BR>
-&nbsp;&nbsp;&nbsp;&nbsp	Spectrum 128K<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;	Amiga AGA<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;	MSX2+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;	PC Next186<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;	FPGAGEN (Megadrive)<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;	Atari800XL<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;	Spectrum 128K<BR>
 	
 
 
