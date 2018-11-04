@@ -28,6 +28,8 @@ Available cores.<BR>
 &nbsp;&nbsp;&nbsp;&nbsp;	FPGAGEN (Megadrive)<BR>
 &nbsp;&nbsp;&nbsp;&nbsp;	Atari800XL<BR>
 &nbsp;&nbsp;&nbsp;&nbsp;	Spectrum 128K<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;	QL<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;	ARCADE<BR>
 	
 
 =======
