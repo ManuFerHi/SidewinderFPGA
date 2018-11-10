@@ -1,0 +1,9 @@
+v1
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,system:sys_inst|unit186:CPUUnit|Next186_CPU:cpu|Next186_ALU:ALU16|lpm_mult:Mult0|mult_76t:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,system:sys_inst|DSP32:DSP32_inst|lpm_mult:Mult0|mult_46t:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,system:sys_inst|DSP32:DSP32_inst|lpm_mult:Mult0|mult_46t:auto_generated|mac_out4,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,system:sys_inst|DSP32:DSP32_inst|lpm_mult:Mult0|mult_46t:auto_generated|mac_out8,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,system:sys_inst|opl3:opl3_inst|opl3seq:opl3seq_inst|lpm_mult:Mult0|mult_4dt:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,system:sys_inst|DSP32:DSP32_inst|lpm_mult:Mult0|mult_46t:auto_generated|mac_out6,
+PORT_SWAPPING,PORT_SWAP_TYPE_DSPMULT,system:sys_inst|DSP32:DSP32_inst|lpm_mult:Mult0|mult_46t:auto_generated|mac_mult5,
+PORT_SWAPPING,PORT_SWAP_TYPE_DSPMULT,system:sys_inst|opl3:opl3_inst|opl3seq:opl3seq_inst|lpm_mult:Mult0|mult_4dt:auto_generated|mac_mult1,

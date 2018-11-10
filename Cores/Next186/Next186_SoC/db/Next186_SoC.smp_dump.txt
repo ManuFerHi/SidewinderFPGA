@@ -1,0 +1,64 @@
+
+State Machine - |Next186_SoC|system:sys_inst|i2c_master_byte:i2cmb|STATE
+Name STATE.11 STATE.10 STATE.01 STATE.00 
+STATE.00 0 0 0 0 
+STATE.01 0 0 1 1 
+STATE.10 0 1 0 1 
+STATE.11 1 0 0 1 
+
+State Machine - |Next186_SoC|system:sys_inst|UART_8250:UART|q1:rs232_wr|str
+Name str.00 str.10 str.01 
+str.00 0 0 0 
+str.01 1 0 1 
+str.10 1 1 0 
+
+State Machine - |Next186_SoC|system:sys_inst|UART_8250:UART|q1:rs232_wr|wstr
+Name wstr.00 wstr.10 wstr.01 
+wstr.00 0 0 0 
+wstr.01 1 0 1 
+wstr.10 1 1 0 
+
+State Machine - |Next186_SoC|system:sys_inst|UART_8250:UART|rs232_phy:rs232_phy_inst|STATE
+Name STATE.00 STATE.10 STATE.01 
+STATE.00 0 0 0 
+STATE.01 1 0 1 
+STATE.10 1 1 0 
+
+State Machine - |Next186_SoC|system:sys_inst|DSP32:DSP32_inst|op
+Name op.111 op.110 op.101 op.100 op.011 op.010 op.001 op.000 
+op.000 0 0 0 0 0 0 0 0 
+op.001 0 0 0 0 0 0 1 1 
+op.010 0 0 0 0 0 1 0 1 
+op.011 0 0 0 0 1 0 0 1 
+op.100 0 0 0 1 0 0 0 1 
+op.101 0 0 1 0 0 0 0 1 
+op.110 0 1 0 0 0 0 0 1 
+op.111 1 0 0 0 0 0 0 1 
+
+State Machine - |Next186_SoC|system:sys_inst|cache_controller:cache_ctl|STATE
+Name STATE.111 STATE.101 STATE.100 STATE.011 STATE.000 
+STATE.000 0 0 0 0 0 
+STATE.011 0 0 0 1 1 
+STATE.100 0 0 1 0 1 
+STATE.101 0 1 0 0 1 
+STATE.111 1 0 0 0 1 
+
+State Machine - |Next186_SoC|system:sys_inst|SDRAM_16bit:SDR|RET
+Name RET.111 RET.110 RET.101 RET.100 RET.011 RET.000 
+RET.000 0 0 0 0 0 0 
+RET.011 0 0 0 0 1 1 
+RET.100 0 0 0 1 0 1 
+RET.101 0 0 1 0 0 1 
+RET.110 0 1 0 0 0 1 
+RET.111 1 0 0 0 0 1 
+
+State Machine - |Next186_SoC|system:sys_inst|SDRAM_16bit:SDR|STATE
+Name STATE.111 STATE.110 STATE.101 STATE.100 STATE.011 STATE.010 STATE.001 STATE.000 
+STATE.000 0 0 0 0 0 0 0 0 
+STATE.001 0 0 0 0 0 0 1 1 
+STATE.010 0 0 0 0 0 1 0 1 
+STATE.011 0 0 0 0 1 0 0 1 
+STATE.100 0 0 0 1 0 0 0 1 
+STATE.101 0 0 1 0 0 0 0 1 
+STATE.110 0 1 0 0 0 0 0 1 
+STATE.111 1 0 0 0 0 0 0 1 
