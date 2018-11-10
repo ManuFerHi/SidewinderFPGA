@@ -1,5 +1,5 @@
 EDA Netlist Writer report for Next186_SoC
-Sun Jul 29 21:27:07 2018
+Sat Nov 10 18:25:27 2018
 Quartus Prime Version 17.1.0 Build 590 10/25/2017 SJ Lite Edition
 
 
@@ -36,7 +36,7 @@ refer to the applicable agreement for further details.
 +-------------------------------------------------------------------+
 ; EDA Netlist Writer Summary                                        ;
 +---------------------------+---------------------------------------+
-; EDA Netlist Writer Status ; Successful - Sun Jul 29 21:27:07 2018 ;
+; EDA Netlist Writer Status ; Successful - Sat Nov 10 18:25:27 2018 ;
 ; Revision Name             ; Next186_SoC                           ;
 ; Top-level Entity Name     ; Next186_SoC                           ;
 ; Family                    ; Cyclone IV E                          ;
@@ -66,20 +66,20 @@ refer to the applicable agreement for further details.
 +---------------------------------------------------------------------------------------------------+--------------------+
 
 
-+--------------------------------------------------------------------------------------------------+
-; Simulation Generated Files                                                                       ;
-+--------------------------------------------------------------------------------------------------+
-; Generated Files                                                                                  ;
-+--------------------------------------------------------------------------------------------------+
-; E:/Altera/proyectos/Next186/Next186_SoC/simulation/modelsim/Next186_SoC_8_1200mv_85c_slow.vo     ;
-; E:/Altera/proyectos/Next186/Next186_SoC/simulation/modelsim/Next186_SoC_8_1200mv_0c_slow.vo      ;
-; E:/Altera/proyectos/Next186/Next186_SoC/simulation/modelsim/Next186_SoC_min_1200mv_0c_fast.vo    ;
-; E:/Altera/proyectos/Next186/Next186_SoC/simulation/modelsim/Next186_SoC.vo                       ;
-; E:/Altera/proyectos/Next186/Next186_SoC/simulation/modelsim/Next186_SoC_8_1200mv_85c_v_slow.sdo  ;
-; E:/Altera/proyectos/Next186/Next186_SoC/simulation/modelsim/Next186_SoC_8_1200mv_0c_v_slow.sdo   ;
-; E:/Altera/proyectos/Next186/Next186_SoC/simulation/modelsim/Next186_SoC_min_1200mv_0c_v_fast.sdo ;
-; E:/Altera/proyectos/Next186/Next186_SoC/simulation/modelsim/Next186_SoC_v.sdo                    ;
-+--------------------------------------------------------------------------------------------------+
++--------------------------------------------------------------------------------------------------------------------------+
+; Simulation Generated Files                                                                                               ;
++--------------------------------------------------------------------------------------------------------------------------+
+; Generated Files                                                                                                          ;
++--------------------------------------------------------------------------------------------------------------------------+
+; E:/G/Electronica/AmiFPGA/Repowc/trunk/Cores/Next186/Next186_SoC/simulation/modelsim/Next186_SoC_8_1200mv_85c_slow.vo     ;
+; E:/G/Electronica/AmiFPGA/Repowc/trunk/Cores/Next186/Next186_SoC/simulation/modelsim/Next186_SoC_8_1200mv_0c_slow.vo      ;
+; E:/G/Electronica/AmiFPGA/Repowc/trunk/Cores/Next186/Next186_SoC/simulation/modelsim/Next186_SoC_min_1200mv_0c_fast.vo    ;
+; E:/G/Electronica/AmiFPGA/Repowc/trunk/Cores/Next186/Next186_SoC/simulation/modelsim/Next186_SoC.vo                       ;
+; E:/G/Electronica/AmiFPGA/Repowc/trunk/Cores/Next186/Next186_SoC/simulation/modelsim/Next186_SoC_8_1200mv_85c_v_slow.sdo  ;
+; E:/G/Electronica/AmiFPGA/Repowc/trunk/Cores/Next186/Next186_SoC/simulation/modelsim/Next186_SoC_8_1200mv_0c_v_slow.sdo   ;
+; E:/G/Electronica/AmiFPGA/Repowc/trunk/Cores/Next186/Next186_SoC/simulation/modelsim/Next186_SoC_min_1200mv_0c_v_fast.sdo ;
+; E:/G/Electronica/AmiFPGA/Repowc/trunk/Cores/Next186/Next186_SoC/simulation/modelsim/Next186_SoC_v.sdo                    ;
++--------------------------------------------------------------------------------------------------------------------------+
 
 
 +-----------------------------+
@@ -88,20 +88,20 @@ refer to the applicable agreement for further details.
 Info: *******************************************************************
 Info: Running Quartus Prime EDA Netlist Writer
     Info: Version 17.1.0 Build 590 10/25/2017 SJ Lite Edition
-    Info: Processing started: Sun Jul 29 21:26:53 2018
+    Info: Processing started: Sat Nov 10 18:25:01 2018
 Info: Command: quartus_eda --read_settings_files=off --write_settings_files=off Next186_SoC -c Next186_SoC
-Info (204019): Generated file Next186_SoC_8_1200mv_85c_slow.vo in folder "E:/Altera/proyectos/Next186/Next186_SoC/simulation/modelsim/" for EDA simulation tool
-Info (204019): Generated file Next186_SoC_8_1200mv_0c_slow.vo in folder "E:/Altera/proyectos/Next186/Next186_SoC/simulation/modelsim/" for EDA simulation tool
-Info (204019): Generated file Next186_SoC_min_1200mv_0c_fast.vo in folder "E:/Altera/proyectos/Next186/Next186_SoC/simulation/modelsim/" for EDA simulation tool
-Info (204019): Generated file Next186_SoC.vo in folder "E:/Altera/proyectos/Next186/Next186_SoC/simulation/modelsim/" for EDA simulation tool
-Info (204019): Generated file Next186_SoC_8_1200mv_85c_v_slow.sdo in folder "E:/Altera/proyectos/Next186/Next186_SoC/simulation/modelsim/" for EDA simulation tool
-Info (204019): Generated file Next186_SoC_8_1200mv_0c_v_slow.sdo in folder "E:/Altera/proyectos/Next186/Next186_SoC/simulation/modelsim/" for EDA simulation tool
-Info (204019): Generated file Next186_SoC_min_1200mv_0c_v_fast.sdo in folder "E:/Altera/proyectos/Next186/Next186_SoC/simulation/modelsim/" for EDA simulation tool
-Info (204019): Generated file Next186_SoC_v.sdo in folder "E:/Altera/proyectos/Next186/Next186_SoC/simulation/modelsim/" for EDA simulation tool
+Info (204019): Generated file Next186_SoC_8_1200mv_85c_slow.vo in folder "E:/G/Electronica/AmiFPGA/Repowc/trunk/Cores/Next186/Next186_SoC/simulation/modelsim/" for EDA simulation tool
+Info (204019): Generated file Next186_SoC_8_1200mv_0c_slow.vo in folder "E:/G/Electronica/AmiFPGA/Repowc/trunk/Cores/Next186/Next186_SoC/simulation/modelsim/" for EDA simulation tool
+Info (204019): Generated file Next186_SoC_min_1200mv_0c_fast.vo in folder "E:/G/Electronica/AmiFPGA/Repowc/trunk/Cores/Next186/Next186_SoC/simulation/modelsim/" for EDA simulation tool
+Info (204019): Generated file Next186_SoC.vo in folder "E:/G/Electronica/AmiFPGA/Repowc/trunk/Cores/Next186/Next186_SoC/simulation/modelsim/" for EDA simulation tool
+Info (204019): Generated file Next186_SoC_8_1200mv_85c_v_slow.sdo in folder "E:/G/Electronica/AmiFPGA/Repowc/trunk/Cores/Next186/Next186_SoC/simulation/modelsim/" for EDA simulation tool
+Info (204019): Generated file Next186_SoC_8_1200mv_0c_v_slow.sdo in folder "E:/G/Electronica/AmiFPGA/Repowc/trunk/Cores/Next186/Next186_SoC/simulation/modelsim/" for EDA simulation tool
+Info (204019): Generated file Next186_SoC_min_1200mv_0c_v_fast.sdo in folder "E:/G/Electronica/AmiFPGA/Repowc/trunk/Cores/Next186/Next186_SoC/simulation/modelsim/" for EDA simulation tool
+Info (204019): Generated file Next186_SoC_v.sdo in folder "E:/G/Electronica/AmiFPGA/Repowc/trunk/Cores/Next186/Next186_SoC/simulation/modelsim/" for EDA simulation tool
 Info: Quartus Prime EDA Netlist Writer was successful. 0 errors, 0 warnings
-    Info: Peak virtual memory: 663 megabytes
-    Info: Processing ended: Sun Jul 29 21:27:08 2018
-    Info: Elapsed time: 00:00:15
-    Info: Total CPU time (on all processors): 00:00:13
+    Info: Peak virtual memory: 4816 megabytes
+    Info: Processing ended: Sat Nov 10 18:25:27 2018
+    Info: Elapsed time: 00:00:26
+    Info: Total CPU time (on all processors): 00:00:24
 
 

@@ -1,5 +1,5 @@
 Assembler report for Next186_SoC
-Sun Jul 29 21:26:37 2018
+Sat Nov 10 18:24:29 2018
 Quartus Prime Version 17.1.0 Build 590 10/25/2017 SJ Lite Edition
 
 
@@ -10,8 +10,8 @@ Quartus Prime Version 17.1.0 Build 590 10/25/2017 SJ Lite Edition
   2. Assembler Summary
   3. Assembler Settings
   4. Assembler Generated Files
-  5. Assembler Device Options: E:/Altera/proyectos/Next186/Next186_SoC/Next186_SoC.sof
-  6. Assembler Device Options: E:/Altera/proyectos/Next186/Next186_SoC/Next186_SoC.pof
+  5. Assembler Device Options: E:/G/Electronica/AmiFPGA/Repowc/trunk/Cores/Next186/Next186_SoC/Next186_SoC.sof
+  6. Assembler Device Options: E:/G/Electronica/AmiFPGA/Repowc/trunk/Cores/Next186/Next186_SoC/Next186_SoC.pof
   7. Assembler Messages
 
 
@@ -38,7 +38,7 @@ refer to the applicable agreement for further details.
 +---------------------------------------------------------------+
 ; Assembler Summary                                             ;
 +-----------------------+---------------------------------------+
-; Assembler Status      ; Successful - Sun Jul 29 21:26:37 2018 ;
+; Assembler Status      ; Successful - Sat Nov 10 18:24:29 2018 ;
 ; Revision Name         ; Next186_SoC                           ;
 ; Top-level Entity Name ; Next186_SoC                           ;
 ; Family                ; Cyclone IV E                          ;
@@ -53,35 +53,35 @@ refer to the applicable agreement for further details.
 +--------+---------+---------------+
 
 
-+---------------------------------------------------------+
-; Assembler Generated Files                               ;
-+---------------------------------------------------------+
-; File Name                                               ;
-+---------------------------------------------------------+
-; E:/Altera/proyectos/Next186/Next186_SoC/Next186_SoC.sof ;
-; E:/Altera/proyectos/Next186/Next186_SoC/Next186_SoC.pof ;
-+---------------------------------------------------------+
++---------------------------------------------------------------------------------+
+; Assembler Generated Files                                                       ;
++---------------------------------------------------------------------------------+
+; File Name                                                                       ;
++---------------------------------------------------------------------------------+
+; E:/G/Electronica/AmiFPGA/Repowc/trunk/Cores/Next186/Next186_SoC/Next186_SoC.sof ;
+; E:/G/Electronica/AmiFPGA/Repowc/trunk/Cores/Next186/Next186_SoC/Next186_SoC.pof ;
++---------------------------------------------------------------------------------+
 
 
-+-----------------------------------------------------------------------------------+
-; Assembler Device Options: E:/Altera/proyectos/Next186/Next186_SoC/Next186_SoC.sof ;
-+----------------+------------------------------------------------------------------+
-; Option         ; Setting                                                          ;
-+----------------+------------------------------------------------------------------+
-; JTAG usercode  ; 0x00CF973A                                                       ;
-; Checksum       ; 0x00CF973A                                                       ;
-+----------------+------------------------------------------------------------------+
++-----------------------------------------------------------------------------------------------------------+
+; Assembler Device Options: E:/G/Electronica/AmiFPGA/Repowc/trunk/Cores/Next186/Next186_SoC/Next186_SoC.sof ;
++----------------+------------------------------------------------------------------------------------------+
+; Option         ; Setting                                                                                  ;
++----------------+------------------------------------------------------------------------------------------+
+; JTAG usercode  ; 0x00CF973A                                                                               ;
+; Checksum       ; 0x00CF973A                                                                               ;
++----------------+------------------------------------------------------------------------------------------+
 
 
-+-----------------------------------------------------------------------------------+
-; Assembler Device Options: E:/Altera/proyectos/Next186/Next186_SoC/Next186_SoC.pof ;
-+--------------------+--------------------------------------------------------------+
-; Option             ; Setting                                                      ;
-+--------------------+--------------------------------------------------------------+
-; JTAG usercode      ; 0x00000000                                                   ;
-; Checksum           ; 0x1BD55559                                                   ;
-; Compression Ratio  ; 1                                                            ;
-+--------------------+--------------------------------------------------------------+
++-----------------------------------------------------------------------------------------------------------+
+; Assembler Device Options: E:/G/Electronica/AmiFPGA/Repowc/trunk/Cores/Next186/Next186_SoC/Next186_SoC.pof ;
++--------------------+--------------------------------------------------------------------------------------+
+; Option             ; Setting                                                                              ;
++--------------------+--------------------------------------------------------------------------------------+
+; JTAG usercode      ; 0x00000000                                                                           ;
+; Checksum           ; 0x1BD55559                                                                           ;
+; Compression Ratio  ; 1                                                                                    ;
++--------------------+--------------------------------------------------------------------------------------+
 
 
 +--------------------+
@@ -90,14 +90,14 @@ refer to the applicable agreement for further details.
 Info: *******************************************************************
 Info: Running Quartus Prime Assembler
     Info: Version 17.1.0 Build 590 10/25/2017 SJ Lite Edition
-    Info: Processing started: Sun Jul 29 21:26:35 2018
+    Info: Processing started: Sat Nov 10 18:24:25 2018
 Info: Command: quartus_asm --read_settings_files=off --write_settings_files=off Next186_SoC -c Next186_SoC
 Info (115031): Writing out detailed assembly data for power analysis
 Info (115030): Assembler is generating device programming files
 Info: Quartus Prime Assembler was successful. 0 errors, 0 warnings
-    Info: Peak virtual memory: 594 megabytes
-    Info: Processing ended: Sun Jul 29 21:26:37 2018
-    Info: Elapsed time: 00:00:02
-    Info: Total CPU time (on all processors): 00:00:02
+    Info: Peak virtual memory: 4740 megabytes
+    Info: Processing ended: Sat Nov 10 18:24:29 2018
+    Info: Elapsed time: 00:00:04
+    Info: Total CPU time (on all processors): 00:00:04
 
 

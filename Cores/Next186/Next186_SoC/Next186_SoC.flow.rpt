@@ -1,5 +1,5 @@
 Flow report for Next186_SoC
-Sun Jul 29 21:27:07 2018
+Sat Nov 10 18:25:27 2018
 Quartus Prime Version 17.1.0 Build 590 10/25/2017 SJ Lite Edition
 
 
@@ -40,7 +40,7 @@ refer to the applicable agreement for further details.
 +----------------------------------------------------------------------------------+
 ; Flow Summary                                                                     ;
 +------------------------------------+---------------------------------------------+
-; Flow Status                        ; Successful - Sun Jul 29 21:27:07 2018       ;
+; Flow Status                        ; Successful - Sat Nov 10 18:25:27 2018       ;
 ; Quartus Prime Version              ; 17.1.0 Build 590 10/25/2017 SJ Lite Edition ;
 ; Revision Name                      ; Next186_SoC                                 ;
 ; Top-level Entity Name              ; Next186_SoC                                 ;
@@ -64,7 +64,7 @@ refer to the applicable agreement for further details.
 +-------------------+---------------------+
 ; Option            ; Setting             ;
 +-------------------+---------------------+
-; Start date & time ; 07/29/2018 21:22:15 ;
+; Start date & time ; 11/10/2018 18:18:22 ;
 ; Main task         ; Compilation         ;
 ; Revision Name     ; Next186_SoC         ;
 +-------------------+---------------------+
@@ -75,7 +75,7 @@ refer to the applicable agreement for further details.
 +-------------------------------------------------+----------------------------------------+---------------+-------------+----------------+
 ; Assignment Name                                 ; Value                                  ; Default Value ; Entity Name ; Section Id     ;
 +-------------------------------------------------+----------------------------------------+---------------+-------------+----------------+
-; COMPILER_SIGNATURE_ID                           ; 238368721080448.153289213502616        ; --            ; --          ; --             ;
+; COMPILER_SIGNATURE_ID                           ; 53447161827430.154187030206652         ; --            ; --          ; --             ;
 ; EDA_OUTPUT_DATA_FORMAT                          ; Verilog Hdl                            ; --            ; --          ; eda_simulation ;
 ; EDA_SIMULATION_TOOL                             ; ModelSim (Verilog)                     ; <None>        ; --          ; --             ;
 ; EDA_TIME_SCALE                                  ; 1 ps                                   ; --            ; --          ; eda_simulation ;
@@ -132,26 +132,26 @@ refer to the applicable agreement for further details.
 +---------------------------+--------------+-------------------------+---------------------+------------------------------------+
 ; Module Name               ; Elapsed Time ; Average Processors Used ; Peak Virtual Memory ; Total CPU Time (on all processors) ;
 +---------------------------+--------------+-------------------------+---------------------+------------------------------------+
-; Analysis & Synthesis      ; 00:01:21     ; 1.0                     ; 863 MB              ; 00:01:35                           ;
-; Fitter                    ; 00:02:50     ; 1.1                     ; 1635 MB             ; 00:04:49                           ;
-; Assembler                 ; 00:00:02     ; 1.0                     ; 594 MB              ; 00:00:02                           ;
-; TimeQuest Timing Analyzer ; 00:00:14     ; 2.1                     ; 874 MB              ; 00:00:20                           ;
-; EDA Netlist Writer        ; 00:00:14     ; 1.0                     ; 663 MB              ; 00:00:13                           ;
-; Total                     ; 00:04:41     ; --                      ; --                  ; 00:06:59                           ;
+; Analysis & Synthesis      ; 00:01:43     ; 1.0                     ; 4986 MB             ; 00:01:51                           ;
+; Fitter                    ; 00:04:05     ; 1.1                     ; 5708 MB             ; 00:06:52                           ;
+; Assembler                 ; 00:00:04     ; 1.0                     ; 4740 MB             ; 00:00:04                           ;
+; TimeQuest Timing Analyzer ; 00:00:26     ; 2.0                     ; 4995 MB             ; 00:00:36                           ;
+; EDA Netlist Writer        ; 00:00:26     ; 1.0                     ; 4816 MB             ; 00:00:24                           ;
+; Total                     ; 00:06:44     ; --                      ; --                  ; 00:09:47                           ;
 +---------------------------+--------------+-------------------------+---------------------+------------------------------------+
 
 
-+----------------------------------------------------------------------------------------+
-; Flow OS Summary                                                                        ;
-+---------------------------+------------------+-----------+------------+----------------+
-; Module Name               ; Machine Hostname ; OS Name   ; OS Version ; Processor type ;
-+---------------------------+------------------+-----------+------------+----------------+
-; Analysis & Synthesis      ; ingepal          ; Windows 7 ; 6.1        ; x86_64         ;
-; Fitter                    ; ingepal          ; Windows 7 ; 6.1        ; x86_64         ;
-; Assembler                 ; ingepal          ; Windows 7 ; 6.1        ; x86_64         ;
-; TimeQuest Timing Analyzer ; ingepal          ; Windows 7 ; 6.1        ; x86_64         ;
-; EDA Netlist Writer        ; ingepal          ; Windows 7 ; 6.1        ; x86_64         ;
-+---------------------------+------------------+-----------+------------+----------------+
++-----------------------------------------------------------------------------------------+
+; Flow OS Summary                                                                         ;
++---------------------------+------------------+------------+------------+----------------+
+; Module Name               ; Machine Hostname ; OS Name    ; OS Version ; Processor type ;
++---------------------------+------------------+------------+------------+----------------+
+; Analysis & Synthesis      ; DESKTOP-LDMKG1F  ; Windows 10 ; 10.0       ; x86_64         ;
+; Fitter                    ; DESKTOP-LDMKG1F  ; Windows 10 ; 10.0       ; x86_64         ;
+; Assembler                 ; DESKTOP-LDMKG1F  ; Windows 10 ; 10.0       ; x86_64         ;
+; TimeQuest Timing Analyzer ; DESKTOP-LDMKG1F  ; Windows 10 ; 10.0       ; x86_64         ;
+; EDA Netlist Writer        ; DESKTOP-LDMKG1F  ; Windows 10 ; 10.0       ; x86_64         ;
++---------------------------+------------------+------------+------------+----------------+
 
 
 ------------
