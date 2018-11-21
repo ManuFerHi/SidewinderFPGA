@@ -32,7 +32,8 @@ Available cores.<BR>
 &nbsp;&nbsp;&nbsp;&nbsp;	ARCADE<BR>
 	
 
-=======
+=======<BR>
+For purchase Sidewinder FPGA visit my store http://www.manuferhi.com<BR>
 For purchase Sidewinder visit my store http://www.manuferhi.com
 For more information, contact with manuferhi@gmail.com
 
