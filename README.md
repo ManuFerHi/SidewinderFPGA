@@ -33,8 +33,9 @@ Available cores.<BR>
 	
 
 =======
-
+For purchase Sidewinder visit my store http://www.manuferhi.com
 For more information, contact with manuferhi@gmail.com
+
 
 
 
